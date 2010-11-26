@@ -8,3 +8,4 @@ E:\ReadMACAddress\ReadMACAddress\obj\Release\ReadMACAddress.vbproj.GenerateResou
 E:\ReadMACAddress\ReadMACAddress\obj\Release\ReadMACAddress.exe
 E:\ReadMACAddress\ReadMACAddress\obj\Release\ReadMACAddress.xml
 E:\ReadMACAddress\ReadMACAddress\obj\Release\ReadMACAddress.pdb
+E:\ReadMACAddress\ReadMACAddress\obj\Release\ReadCpuSerial.Form2.resources
