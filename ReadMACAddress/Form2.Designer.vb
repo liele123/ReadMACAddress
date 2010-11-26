@@ -22,15 +22,23 @@ Partial Class Form2
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker
         Me.Button1 = New System.Windows.Forms.Button
         Me.SuspendLayout()
         '
+        'DateTimePicker1
+        '
+        Me.DateTimePicker1.Location = New System.Drawing.Point(40, 48)
+        Me.DateTimePicker1.Name = "DateTimePicker1"
+        Me.DateTimePicker1.Size = New System.Drawing.Size(200, 20)
+        Me.DateTimePicker1.TabIndex = 0
+        '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(121, 81)
+        Me.Button1.Location = New System.Drawing.Point(95, 111)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 0
+        Me.Button1.TabIndex = 1
         Me.Button1.Text = "Button1"
         Me.Button1.UseVisualStyleBackColor = True
         '
@@ -40,10 +48,12 @@ Partial Class Form2
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 262)
         Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.DateTimePicker1)
         Me.Name = "Form2"
         Me.Text = "Form2"
         Me.ResumeLayout(False)
 
     End Sub
+    Friend WithEvents DateTimePicker1 As System.Windows.Forms.DateTimePicker
     Friend WithEvents Button1 As System.Windows.Forms.Button
 End Class
