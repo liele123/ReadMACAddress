@@ -1,0 +1,20 @@
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\bin\Debug\ReadMACAddress.exe
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\bin\Debug\ReadMACAddress.pdb
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\bin\Debug\ReadMACAddress.xml
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form1.resources
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Resources.resources
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.vbproj.GenerateResource.Cache
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.exe
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.xml
+C:\Users\VINCENT LIELE\Documents\Visual Studio 2008\Projects\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.pdb
+D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.exe
+D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.xml
+D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.pdb
+D:\Programs\ReadMACAddress\ReadMACAddress\bin\Debug\ReadMACAddress.exe
+D:\Programs\ReadMACAddress\ReadMACAddress\bin\Debug\ReadMACAddress.pdb
+D:\Programs\ReadMACAddress\ReadMACAddress\bin\Debug\ReadMACAddress.xml
+D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form1.resources
+D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Resources.resources
+D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\bin\Debug\ReadCpuSerial.exe
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\bin\Debug\ReadCpuSerial.pdb
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\bin\Debug\ReadCpuSerial.xml
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\obj\Debug\ReadCpuSerial.Form1.resources
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\obj\Debug\ReadCpuSerial.Resources.resources
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\obj\Debug\ReadCpuSerial.vbproj.GenerateResource.Cache
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\obj\Debug\ReadCpuSerial.exe
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\obj\Debug\ReadCpuSerial.xml
+C:\Users\VINCENT LIELE\AppData\Local\Temporary Projects\ReadCpuSerial\obj\Debug\ReadCpuSerial.pdb
