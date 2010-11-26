@@ -18,7 +18,6 @@ D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ResolveAssemblyReference.cac
 D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form1.resources
 D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Resources.resources
 D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.vbproj.GenerateResource.Cache
-D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form3.resources
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.exe
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.xml
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.pdb
@@ -30,3 +29,4 @@ E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form1.resources
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Resources.resources
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.vbproj.GenerateResource.Cache
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form2.resources
+D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form2.resources
