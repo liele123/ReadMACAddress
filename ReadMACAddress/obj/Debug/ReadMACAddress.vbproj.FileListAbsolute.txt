@@ -29,3 +29,4 @@ E:\ReadMACAddress\ReadMACAddress\obj\Debug\ResolveAssemblyReference.cache
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form1.resources
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Resources.resources
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.vbproj.GenerateResource.Cache
+E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form2.resources
