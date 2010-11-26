@@ -23,20 +23,30 @@ Partial Class Form2
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker
+        Me.ComboBox1 = New System.Windows.Forms.ComboBox
         Me.SuspendLayout()
         '
         'DateTimePicker1
         '
-        Me.DateTimePicker1.Location = New System.Drawing.Point(187, 112)
+        Me.DateTimePicker1.Location = New System.Drawing.Point(40, 33)
         Me.DateTimePicker1.Name = "DateTimePicker1"
         Me.DateTimePicker1.Size = New System.Drawing.Size(200, 20)
         Me.DateTimePicker1.TabIndex = 0
+        '
+        'ComboBox1
+        '
+        Me.ComboBox1.FormattingEnabled = True
+        Me.ComboBox1.Location = New System.Drawing.Point(103, 117)
+        Me.ComboBox1.Name = "ComboBox1"
+        Me.ComboBox1.Size = New System.Drawing.Size(121, 21)
+        Me.ComboBox1.TabIndex = 1
         '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 262)
+        Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.DateTimePicker1)
         Me.Name = "Form2"
         Me.Text = "Form2"
@@ -44,4 +54,5 @@ Partial Class Form2
 
     End Sub
     Friend WithEvents DateTimePicker1 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents ComboBox1 As System.Windows.Forms.ComboBox
 End Class
