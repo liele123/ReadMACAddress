@@ -29,3 +29,14 @@ E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form1.resources
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Resources.resources
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.vbproj.GenerateResource.Cache
 E:\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form2.resources
+D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.exe
+D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.xml
+D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.pdb
+D:\Git Programs\ReadMACAddress\ReadMACAddress\bin\Debug\ReadMACAddress.exe
+D:\Git Programs\ReadMACAddress\ReadMACAddress\bin\Debug\ReadMACAddress.pdb
+D:\Git Programs\ReadMACAddress\ReadMACAddress\bin\Debug\ReadMACAddress.xml
+D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ResolveAssemblyReference.cache
+D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form1.resources
+D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Resources.resources
+D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.vbproj.GenerateResource.Cache
+D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form2.resources
