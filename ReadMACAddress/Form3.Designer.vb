@@ -24,7 +24,6 @@ Partial Class Form3
     Private Sub InitializeComponent()
         Me.RadioButton1 = New System.Windows.Forms.RadioButton
         Me.ComboBox1 = New System.Windows.Forms.ComboBox
-        Me.CheckBox1 = New System.Windows.Forms.CheckBox
         Me.Button1 = New System.Windows.Forms.Button
         Me.Label1 = New System.Windows.Forms.Label
         Me.SuspendLayout()
@@ -47,16 +46,6 @@ Partial Class Form3
         Me.ComboBox1.Name = "ComboBox1"
         Me.ComboBox1.Size = New System.Drawing.Size(121, 21)
         Me.ComboBox1.TabIndex = 1
-        '
-        'CheckBox1
-        '
-        Me.CheckBox1.AutoSize = True
-        Me.CheckBox1.Location = New System.Drawing.Point(73, 25)
-        Me.CheckBox1.Name = "CheckBox1"
-        Me.CheckBox1.Size = New System.Drawing.Size(81, 17)
-        Me.CheckBox1.TabIndex = 2
-        Me.CheckBox1.Text = "CheckBox1"
-        Me.CheckBox1.UseVisualStyleBackColor = True
         '
         'Button1
         '
@@ -83,7 +72,6 @@ Partial Class Form3
         Me.ClientSize = New System.Drawing.Size(284, 262)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.CheckBox1)
         Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.RadioButton1)
         Me.Name = "Form3"
@@ -94,7 +82,6 @@ Partial Class Form3
     End Sub
     Friend WithEvents RadioButton1 As System.Windows.Forms.RadioButton
     Friend WithEvents ComboBox1 As System.Windows.Forms.ComboBox
-    Friend WithEvents CheckBox1 As System.Windows.Forms.CheckBox
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Label1 As System.Windows.Forms.Label
 End Class
