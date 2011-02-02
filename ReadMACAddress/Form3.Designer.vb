@@ -25,6 +25,7 @@ Partial Class Form3
         Me.RadioButton1 = New System.Windows.Forms.RadioButton
         Me.ComboBox1 = New System.Windows.Forms.ComboBox
         Me.CheckBox1 = New System.Windows.Forms.CheckBox
+        Me.Button1 = New System.Windows.Forms.Button
         Me.SuspendLayout()
         '
         'RadioButton1
@@ -56,11 +57,21 @@ Partial Class Form3
         Me.CheckBox1.Text = "CheckBox1"
         Me.CheckBox1.UseVisualStyleBackColor = True
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(43, 205)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 3
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'Form3
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 262)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.CheckBox1)
         Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.RadioButton1)
@@ -73,4 +84,5 @@ Partial Class Form3
     Friend WithEvents RadioButton1 As System.Windows.Forms.RadioButton
     Friend WithEvents ComboBox1 As System.Windows.Forms.ComboBox
     Friend WithEvents CheckBox1 As System.Windows.Forms.CheckBox
+    Friend WithEvents Button1 As System.Windows.Forms.Button
 End Class
