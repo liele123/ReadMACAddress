@@ -41,3 +41,4 @@ D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Resources.
 D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadMACAddress.vbproj.GenerateResource.Cache
 D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form2.resources
 D:\Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form2.resources
+D:\Git Programs\ReadMACAddress\ReadMACAddress\obj\Debug\ReadCpuSerial.Form3.resources
